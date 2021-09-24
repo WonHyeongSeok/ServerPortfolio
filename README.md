@@ -3,7 +3,7 @@
 -게임 서버 포트폴리오
 
 ### Sample C# Script
-C# SampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode).
+C# SampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/ServerCSharpCode).
 
 ### Sample C++ Script
 C++ SampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode).
