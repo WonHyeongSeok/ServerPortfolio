@@ -6,7 +6,7 @@
 C# SampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/ServerCSharpCode).
 
 ### Sample C++ Script
-C++ SampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode).
+C++ SampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/ServerCPP).
 
 ### Video
 Video - [VideoUrl](https://youtu.be/q2wwcHjqtTQ).
