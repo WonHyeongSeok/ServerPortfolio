@@ -8,6 +8,8 @@ C# SampleCode - [C# SampleCodeURL](https://github.com/WonHyeongSeok/ServerCSharp
 ### Sample C++ Script
 C++ SampleCode - [C++ SamepleCodeURL](https://github.com/WonHyeongSeok/ServerCPP).
 
-### Video
-Video - [VideoUrl](https://youtu.be/q2wwcHjqtTQ).
+### GameVideos
+Casual Game Video - [VideoUrl](https://youtu.be/LajW9NKrUU0).
+
+MMO RPG Video - [VideoUrl](https://youtu.be/_bRPtDxWvz4).
 
