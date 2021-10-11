@@ -2,11 +2,9 @@
 
 -게임 서버 포트폴리오
 
-### Sample C# Script
-C# SampleCode - [C# SampleCodeURL](https://github.com/WonHyeongSeok/ServerCSharpCode).
-
-### Sample C++ Script
-C++ SampleCode - [C++ SamepleCodeURL](https://github.com/WonHyeongSeok/ServerCPP).
+### Sample Scripts
+[C# SampleCodeURL](https://github.com/WonHyeongSeok/ServerCSharpCode).
+[C++ SamepleCodeURL](https://github.com/WonHyeongSeok/ServerCPP).
 
 ### GameVideos
 [Casual Game Video](https://youtu.be/LajW9NKrUU0).
