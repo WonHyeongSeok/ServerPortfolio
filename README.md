@@ -9,7 +9,8 @@ C# SampleCode - [C# SampleCodeURL](https://github.com/WonHyeongSeok/ServerCSharp
 C++ SampleCode - [C++ SamepleCodeURL](https://github.com/WonHyeongSeok/ServerCPP).
 
 ### GameVideos
-Casual Game Video - [VideoUrl](https://youtu.be/LajW9NKrUU0).
+[Casual Game Video](https://youtu.be/LajW9NKrUU0).
+(Server-C# , Client-Unity3d)
 
-MMO RPG Video - [VideoUrl](https://youtu.be/_bRPtDxWvz4).
-
+[MMO RPG Video](https://youtu.be/_bRPtDxWvz4).
+(Server-C# , Client-Unity3d)
