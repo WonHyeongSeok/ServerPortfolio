@@ -7,7 +7,7 @@
 
 ###
 IOCP -> BOOST::ASIO로 바꾼작업
-[C++ SamepleCodeURL](https://github.com/WonHyeongSeok/boostAsioGameServer)](https://github.com/WonHyeongSeok/boostAsioServer).
+[C++ SamepleCodeURL](https://github.com/WonHyeongSeok/boostAsioGameServer).
 
 ### GameVideos
 [Casual Game Video](https://youtu.be/LajW9NKrUU0).
