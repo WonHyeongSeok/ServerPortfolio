@@ -1,7 +1,5 @@
 ## 원형석 포트폴리오 페이지 입니다.
 
--게임 서버 포트폴리오
-
 ### C# 간단한 코딩스타일 코드
 [C# Sample Code Style URL](https://github.com/WonHyeongSeok/ServerCSharpCode).
 
