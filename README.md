@@ -5,7 +5,7 @@
 ### Sample Scripts
 [C# SampleCodeURL](https://github.com/WonHyeongSeok/ServerCSharpCode).
 ###
-[C++ SamepleCodeURL](https://github.com/WonHyeongSeok/ServerCPP).
+[C++ SamepleCodeURL](https://github.com/WonHyeongSeok/boostAsioGameServer).
 
 ### GameVideos
 [Casual Game Video](https://youtu.be/LajW9NKrUU0).
